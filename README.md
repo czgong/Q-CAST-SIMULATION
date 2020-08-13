@@ -28,3 +28,8 @@ To run the Program:
   This simulation is simplified from their code, and not completely finished. Due to unforeseen family emergencies and time contraints, I was unable to replicate
   this protocol as much as I had hoped and intended; although,I hope to be able to continue and finish this project in the future. 
   
+  Here are the links to the resources from Professor Qian:
+  https://github.com/sshi27/QuantumRouting
+  https://users.soe.ucsc.edu/~qian/papers/QuantumRouting.pdf
+  
+  
